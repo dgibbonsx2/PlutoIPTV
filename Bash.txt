@@ -1,0 +1,7 @@
+## Usage
+
+### Run
+
+```bash
+$ npx pluto-iptv
+```
